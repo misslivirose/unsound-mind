@@ -7,6 +7,3 @@ Not anymore.
 ### Essays of an Unsound Mind
 Essays of an Unsound Mind is a series that explores the philosophy of technology through an existential and occasionally psychological lens. It is where I share the ideas that are in some ways most core to my values and beliefs, and in other ways completely unformed. Right now, those thoughts are framed around the metaverse and creating shared digital worlds, most often as a way of my brain building a framework through which to think about the relationship between self, community, and environment. 
 
-### Astoria: a reinvention of self through the illusion of love
-Astoria is an upcoming collection of poetry that serves as a journal of self-discovery through a brief but intense, challenging, and confusing relationship. A limited run of print copies will be available in Q1 2022.
-
