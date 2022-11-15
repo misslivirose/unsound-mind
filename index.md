@@ -2,7 +2,7 @@
 
 Essays of an Unsound Mind is a series that explores the philosophy of technology through an existential and occasionally psychological lens.
 
-[Introspection and the Metaverse's Attention Economy Problem](./docs/11-15-22.md)
+[Introspection and the Metaverse's Attention Economy Problem - 11-15-22](./docs/11-15-22.md)
 
 [The Metaverse as a Metaphor for Existentialism - 12-15-21](./docs/12-15-21.md)
 
