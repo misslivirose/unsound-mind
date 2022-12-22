@@ -2,6 +2,8 @@
 
 Essays of an Unsound Mind is a series that explores the philosophy of technology through an existential and occasionally psychological lens.
 
+[Neurodivergent verses and building a more complete reality - 12-22-22](./docs/12-22-22.md)
+
 [The Psychological Impact of Creating yourself in the Metaverse - 11-30-22](./docs/11-30-22.md)
 
 [Introspection and the Metaverse's Attention Economy Problem - 11-15-22](./docs/11-15-22.md)
