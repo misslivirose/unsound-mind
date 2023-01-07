@@ -2,7 +2,7 @@
 
 Essays of an Unsound Mind is a series that explores the philosophy of technology through an existential and occasionally psychological lens.
 
-[The reflective nature of humanity and the metaverse](./docs/01-07-23.md)
+[The reflective nature of humanity and the metaverse - 01-07-23](./docs/01-07-23.md) 
 
 [Neurodivergent verses and building a more complete reality - 12-22-22](./docs/12-22-22.md)
 
